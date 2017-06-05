@@ -1,0 +1,10 @@
+{ "nombre" : "All Right Now", "artista" : "Free", "album" : "Fire And Water","productores":{"nombre":"Ron","ape1":"Jacobs","ape2":"Gambon"}, "duracion" : 332,"anyo" : 1970, "generos":["Rock","Pop","Alternativa"]}
+{ "nombre" : "Black Betty", "artista" : "Ram Jam", "album" : "Ram Jam","productores":{"nombre":"Paul","ape1":"Smith","ape2":"Johnson"}, "duracion" : 158,"anyo" : 1977, "generos":["Rock","Metal"]}
+{ "nombre" : "Sweet Child O'Mine", "artista" : "Guns N' Roses", "album" : "Appetite For Destruc","productores":{"nombre":"Cristina","ape1":"Applebound","ape2":"Jones"}, "duracion" : 225,"anyo" : 1987, "generos":["Rock","Instrumental"]}
+{ "nombre" : "Crazy Crazy Nights", "artista" : "KISS", "album" : "Crazy Nights","productores":{"nombre":"Mike","ape1":"Stone","ape2":"Clarkson"}, "duracion" : 345,"anyo" : 1995, "generos":["Rock","Heavy"]}
+{ "nombre" : "Always", "artista" : "Bon Jovi", "album" : "Live From London","productores":{"nombre":"Steven","ape1":"Curry","ape2":"Duncan"}, "duracion" : 548,"anyo" : 1986, "generos":["Rock","Pop","Alternativa"]}
+{ "nombre" : "You Give Love A Bad", "artista" : "Bon Jovi", "album" : "Slippery When Wet","productores":{"nombre":"James","ape1":"Earl","ape2":"Jones"}, "duracion" : 298,"anyo" : 1970, "generos":["Pop","Alternativa"]}
+{ "nombre" : "Satisfaction", "artista" : "The Rolling Stones", "album" : "Out of Our Heads","productores":{"nombre":"Kevin","ape1":"Washington","ape2":"Stone"}, "duracion" : 115,"anyo" : 1977, "generos":["Rock","Alternativa"]}
+{ "nombre" : "Hot Blooded", "artista" : "Foreigner", "album" : "Double Vision","productores":{"nombre":"Kemba","ape1":"Walker","ape2":"Martinez"}, "duracion" : 220,"anyo" : 1970, "generos":["Heavy","Pop"]}
+{ "nombre" : "Paranoid", "artista" : "Black Sabbath", "album" : "Paranoid","productores":{"nombre":"Larry","ape1":"Bird","ape2":"De Jesus"}, "duracion" : 245,"anyo" : 1970, "generos":["Rock","Underground","Punk"]}
+{ "nombre" : "In-A-Gadda-Da-Vida", "artista" : "Iron Butterfly", "album" : "In-A-Gadda-Da-Vida","productores":{"nombre":"Scoot","ape1":"James","ape2":"Johnson"}, "duracion" : 338,"anyo" : 1986, "generos":["Rock","Pop","Heavy"]}
